@@ -1,5 +1,5 @@
 {
-    "name": "lunarphp/lunar",
+    "name": "eh3an/lunar",
     "description": "Admin panel for LunarPHP",
     "license": "MIT",
     "autoload": {
@@ -14,7 +14,7 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "lunarphp/core": "self.version",
+        "eh3an/core": "self.version",
         "filament/filament": "^3.3.36",
         "filament/spatie-laravel-media-library-plugin": "^3.3.4",
         "spatie/laravel-permission": "^6.12",
